@@ -1,0 +1,1 @@
+<footer class="cm-footer"><span class="pull-right">Wi-Ki &copy; <?= date('Y') ?></span></footer>

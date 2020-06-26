@@ -1,0 +1,125 @@
+.box {
+    border: solid #cccccc 1px;
+    width: 100% !important;
+}
+
+.filter-box {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.tags-box {
+    padding-top: 7px;
+}
+
+.comment-header {
+    background-color: #f5f5f5 !important;
+    color: black !important;
+    font-size: medium !important;
+}
+
+.comments-box {
+    margin-top: 10px;
+}
+
+.comments-box-count {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.comments-add-comment-box {
+    margin-top: -40px;
+}
+
+.comments-button {
+    margin: 10px 0px 20px 0px;
+}
+
+.comments-title {
+    margin-top: 8px;
+    font-weight: 800;
+}
+
+.comments-panel-footer {
+    padding: 0px 15px 15px 15px;
+}
+
+.comments-hr {
+    margin: 10px 0px 5px 0px;
+}
+
+.comments-attachments-box {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.comments-attachments-text {
+    margin-bottom: 3px;
+}
+
+.attachments-update {
+    margin-top: -12px;
+    margin-bottom: 16px;
+    display: inline-block;
+}
+
+.attachment {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.badge-primary {
+    border-color: #2e6da4;
+    background-color: #337ab7;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.badge-success {
+    border-color: #4cae4c;
+    background-color: #5cb85c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.badge-success:hover {
+    border-color: #398439;
+    background-color: #449d44;
+    cursor: pointer;
+}
+
+.button-remove {
+    position: relative;
+    display: inline-block;
+    font-size: 28px;
+    font-weight: 800;
+    color: #d9534f;
+    margin-left: -20px;
+    top: -5px;
+}
+
+.filter-title {
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.filter-box-in-box {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.panel-heading--visible {
+    overflow: visible;
+    text-transform: initial;
+}
+
+.datepicker.dropdown-menu {
+    -webkit-transform: scaleY(1);
+    -ms-transform: scaleY(1);
+    -o-transform: scaleY(1);
+    transform: scaleY(1);
+    opacity: 1;
+    visibility: visible;
+    transition: unset;
+    z-index: 999999 !important;
+}

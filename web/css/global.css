@@ -1,0 +1,117 @@
+pre {
+    background-color: #2d2d2d !important;
+    border: none !important;
+    border-radius: 0px !important;
+    margin: 0px !important;
+}
+
+code {
+    width: 100%;
+}
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    padding: 5px 9px !important;
+    vertical-align: middle !important;
+}
+
+.checkbox>label>input:hover, .tags-box>label:hover, .tags-box>label>input:hover {
+    cursor: pointer;
+}
+
+.checkbox>label>input {
+    margin-top: 3px;
+}
+
+.tags-box>label>input {
+    margin: 3px;
+}
+
+.breadcrumb>li+li:before {
+    content: "/" !important;
+}
+
+.article-box {
+    border: 1px solid #f5f5f5;
+}
+
+.article-title {
+    font-size: 20px;
+}
+
+.description-body {
+    padding: 10px;
+}
+
+.sample-title {
+    background-color: #f5f5f5;
+    font-size: 22px;
+    color: #333;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.project-name {
+    padding: 10px 0px 0px 10px;
+    font-size: 20px;
+}
+
+.project-name-pencil {
+    color: #ffffff;
+    font-size: 19px;
+}
+
+.project-name-pencil:hover {
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.box-mb {
+    margin-bottom: 15px;
+}
+
+.plus-box {
+    font-size: 22px;
+    padding-top: 5px;
+}
+
+.pos-unset {
+    position: unset !important;
+}
+
+.tab-menu {
+    padding-left: 50px !important;
+    background-repeat: no-repeat !important;
+    background-position: left 13px center !important;
+}
+
+.hidden {
+    display: none;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.float-right {
+    float: right;
+}
+
+.login-text {
+    font-size: 28px;
+    color: #258cd1;
+}
+
+.login-form {
+    margin: 40px auto;
+    float: none !important;
+}
+
+.login-logo {
+    padding: 90px 0 30px 0;
+    background: #fff;
+    border-bottom: 1px solid #ddd
+}
+
+#login-button {
+    margin-top: 22px;
+}
