@@ -1,11 +1,11 @@
 # Wi-Ki
 
-*PHP 7.2, MySQL 8.0, jQuery 2.1.3, Bootstrap 3.3.4*
+*PHP 7.2 (Yii2), MySQL 8.0, jQuery 2.1.3, Bootstrap 3.3.4*
 
 **Пошаговая инструкция по установке:**
 
 1. `composer install`
-2. `CREATE DATABASE wiki`
+2. `CREATE DATABASE wiki CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci`
 3. `yii migrate`
 4. `yii migrate --migrationPath=@yii/rbac/migrations`
 5. `yii rbac/init`
